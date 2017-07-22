@@ -13,5 +13,4 @@ public class Variable {
 		// 4. 변수 result 값을 읽고 console에 출력한다. 
 		System.out.println(result);
 	}
-
 }
